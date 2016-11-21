@@ -5,3 +5,4 @@
 - Chill and watch Netflix
 - Loravel & Web Packs
 - Come invade me
+- I did slack
